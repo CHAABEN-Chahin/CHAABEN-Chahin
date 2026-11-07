@@ -24,10 +24,17 @@ I'm an ICT engineering student at **SUP'COM** (Tunis) who likes building AI syst
 ### 🛠️ What I can do
 
 - 🤖 **LLM agents & RAG**: multi-agent systems on local models, with guardrails against hallucination
+- 🕸️ **Knowledge graphs & GraphRAG**: connecting data so an assistant can reason over it
 - 📄 **Document AI**: OCR + vision-language models that read tables, scans and multilingual PDFs
-- 🔎 **Search that understands meaning**: vector, hybrid and text-to-image search
-- 🧠 **Deep learning & vision**: 3D medical segmentation, forecasting, anomaly detection
-- 🚢 **Ship it**: FastAPI backends, Flutter/web front ends, Docker, tests
+- 🔎 **Smart search & recommendation**: semantic, hybrid and text-to-image search, ranking
+- 🧠 **Deep learning & computer vision**: training and evaluating models, 3D medical segmentation
+- 📈 **Forecasting & anomaly detection**: time series, XGBoost, LSTM, early-warning signals
+- ⚡ **Local inference**: running models fast and privately with Ollama, llama.cpp, ONNX Runtime
+- 🔄 **Data pipelines & automation**: ingestion, ETL, scraping, event-driven workflows
+- 📊 **Monitoring & quality checks**: observability, automatic error flagging, tests
+- 🧪 **Benchmarking**: comparing methods rigorously to pick what really works
+- 🧩 **Full-stack apps**: FastAPI and Spring Boot backends, Angular and Flutter front ends
+- 📡 **IoT**: ESP32 sensors talking to a mobile app over Bluetooth
 
 </td>
 <td width="50%" valign="top">
