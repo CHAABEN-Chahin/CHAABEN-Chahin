@@ -1,63 +1,101 @@
-# Hi, I'm Chehin Chaaben 👋
+<div align="center">
 
-**ICT Engineering Student at SUP'COM** · LLM agents · RAG · vector search · computer vision
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6d28d9&height=180&section=header&text=Chehin%20Chaaben&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=I%20turn%20messy%20real-world%20data%20into%20AI%20that%20actually%20works&descAlignY=56&descSize=16" width="100%"/>
 
-I design end-to-end AI systems, from model training to deployment.
-📌 **Looking for a 4–6 month final-year engineering internship (PFE) in Europe, starting February 2027.**
+<a href="https://github.com/CHAABEN-Chahin">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=620&lines=LLM+agents+that+don't+hallucinate;RAG+over+documents+nobody+wants+to+read;Computer+vision+from+CT+scans+to+receipts;Local-first+AI%2C+running+on+your+own+machine" alt="Typing SVG"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chehin_Chaaben-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chehin-chaaben-b79b8b138/)
-[![Email](https://img.shields.io/badge/Email-chahin.chaaben@supcom.tn-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chahin.chaaben@supcom.tn)
-![Location](https://img.shields.io/badge/Based_in-Tunis,_Tunisia-555?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chehin-chaaben-b79b8b138/)
+[![Email](https://img.shields.io/badge/Email-Say_hi-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chahin.chaaben@supcom.tn)
+
+</div>
 
 ---
 
-## 💼 Experience
+### 👋 Hey there
 
-**EY Tunisia** · *Academic Project, Data & AI* · 09/2026 – present
-Financial document extraction platform for audit: PDF, scans, Word, Excel; French, English, Arabic.
-- Designed and developed an end-to-end financial document extraction platform for audit: 13 AI models run locally, over 80% of tables read correctly.
-- Compared more than 20 methods on more than 2,000 pages: dual OCR and vision-language reading verified against totals, reading text with over 98% fidelity and placing 96% of amounts on the correct line on degraded pages.
-- Added a quality check flagging suspicious tables to the auditor: over 83% of simulated errors caught, under 1% false alarms.
+I'm an ICT engineering student at **SUP'COM** (Tunis) who likes building AI systems **end to end**: from the first ugly dataset to something a real person can use. I'm happiest when a problem is messy, a scanned PDF in three languages, a 3D CT scan, a stock market with very little data, and the solution has to actually hold up.
 
-**Sofrecom Tunisie** · *Data & AI Intern* · 06/2026 – 08/2026
-Partner onboarding tracking and support platform.
-- Automated partner onboarding tracking: 5 manual lookups replaced by a single view, zero manual entry, on a traceable, reversible event-driven architecture.
-- Designed an architecture of 5 specialized agents on local SLMs, each with its own role and context, plus an anti-hallucination harness and a chatbot able to query the entire portfolio.
-- Integrated a remote inference engine under confidentiality constraints and built monitoring ensuring observability of the data flow and of agent performance.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🏆 Hackathons
+### 🛠️ What I can do
 
-| | Event | Project |
-|---|---|---|
-| 🥇 | **IHEC CodeLab 2.0**, 1st place | [KANZ](https://github.com/OussemaHarrabi/KANZ-Petitfour): Tunisian stock market forecasting, news sentiment and anomaly signals |
-| 🥉 | **Hack4UCAR 1.0**, 3rd place | [ENSTAB](https://github.com/OussemaHarrabi/ENSTAB): university intelligence platform with document retrieval and natural-language SQL |
-| 🥉 | **WIEmpower 2.0**, 3rd place | |
+- 🤖 **LLM agents & RAG**: multi-agent systems on local models, with guardrails against hallucination
+- 📄 **Document AI**: OCR + vision-language models that read tables, scans and multilingual PDFs
+- 🔎 **Search that understands meaning**: vector, hybrid and text-to-image search
+- 🧠 **Deep learning & vision**: 3D medical segmentation, forecasting, anomaly detection
+- 🚢 **Ship it**: FastAPI backends, Flutter/web front ends, Docker, tests
 
-## 🚀 Featured projects
+</td>
+<td width="50%" valign="top">
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**Wellvia**](https://github.com/CHAABEN-Chahin/wellvia) | AI health & nutrition companion: Flutter app + ESP32 wearable, meal-photo analysis, health chatbot. IEEE CSTAM2.0 | Flutter, FastAPI, Firebase, Ollama |
-| [**Lung nodule detection**](https://github.com/CHAABEN-Chahin/lung-nodule-nnunet-prep) | 3D CT pipeline (LIDC-IDRI → nnU-Net v2) for lung nodule segmentation and detection: Dice 0.72 ± 0.08, detection F1 0.58 | PyTorch, nnU-Net, Python |
-| [**VondraLink**](https://github.com/Jawher-Sadok/VondraLink) | Multimodal product discovery: text and image search over CLIP embeddings | FastAPI, Qdrant, CLIP |
-| [**KANZ**](https://github.com/OussemaHarrabi/KANZ-Petitfour) | Tunisian stock market (BVMT) forecasting: XGBoost model at about 70% directional accuracy | Python, XGBoost, LSTM, OCR |
-| [**BMO**](https://github.com/OussemaHarrabi/BMO) | Local multimodal memory assistant: screen activity → searchable memory and knowledge graph | Python, Qdrant, Neo4j |
-| [**JINEN**](https://github.com/CHAABEN-Chahin/jinen-nursery-platform) | Nursery management platform with AI child-development tracking, chatbot and vector search | Spring Boot, Angular, MongoDB |
-| [**Social media analyzer**](https://github.com/CHAABEN-Chahin/social-media-content-analyzer) | Fully local pipeline: scraping, OCR, speech-to-text and a small LLM to analyse social posts | Python, Playwright, Whisper, Ollama |
+### ✨ What interests me
 
-## 🛠️ Skills
+- 🏠 **Local-first AI**: powerful models running privately on your own hardware
+- 🧾 **Trustworthy AI**: systems that flag their own mistakes instead of hiding them
+- 🖼️ **Multimodal models**: text, images and documents in one space
+- 🏥 **AI for health**: from lung CT scans to wearables
+- 🏆 **Hackathons**: tight deadline, one idea, ship it
 
-- **LLM & agents:** LangChain, LangGraph, multi-agent systems, MCP, prompt engineering, local SLMs, Ollama
-- **RAG & search:** Qdrant, hybrid search, knowledge graphs, embeddings, CLIP, semantic and cross-modal search
-- **ML & deep learning:** PyTorch, TensorFlow, Hugging Face Transformers, nnU-Net, CNN, LSTM, XGBoost, computer vision, OCR, time series, anomaly detection
-- **Languages:** Python, TypeScript, JavaScript, C++, SQL
-- **Infra & tools:** FastAPI, Docker, Git, Linux, MongoDB, SQLite, REST APIs, ONNX Runtime, llama.cpp, pytest
+</td>
+</tr>
+</table>
 
-## 🎓 Education
+### 🔭 Right now
 
-- **SUP'COM**, Engineering Degree in ICT · 2024 – 2027
-- **IPEIS Sfax**, Preparatory Program in Technology, ranked 17th nationally · 2022 – 2024
+- 🏢 Building a **financial document extraction platform for audit** with **EY Tunisia**: 13 AI models running locally, over 80% of tables read correctly
+- 🎯 Looking for a **4–6 month final-year internship (PFE) in Europe from February 2027**, in AI / LLM / computer vision
 
-## 🌍 Languages
+---
 
-French: professional · English: professional · Arabic: native
+### 🚀 Things I've built
+
+| | Project | The idea |
+|:-:|---|---|
+| 🩺 | [**Wellvia**](https://github.com/CHAABEN-Chahin/wellvia) | A health companion: an ESP32 wearable streams your vitals, you snap your meal and AI logs the nutrition |
+| 🫁 | [**Lung nodule detection**](https://github.com/CHAABEN-Chahin/lung-nodule-nnunet-prep) | 3D chest CT → nnU-Net to find lung nodules. Dice 0.72 ± 0.08 |
+| 🥇 | [**KANZ**](https://github.com/OussemaHarrabi/KANZ-Petitfour) | Making the Tunisian stock market readable: forecasts, news sentiment, anomaly alerts. *1st place, IHEC CodeLab 2.0* |
+| 🛍️ | [**VondraLink**](https://github.com/Jawher-Sadok/VondraLink) | Find products by *vibe* and budget, not keywords: vector search over embeddings |
+| 🧠 | [**BMO**](https://github.com/OussemaHarrabi/BMO) | A memory for your computer: screen activity → searchable memories and a knowledge graph |
+| 🎓 | [**ENSTAB**](https://github.com/OussemaHarrabi/ENSTAB) | University data → dashboards, document search and plain-language SQL. *3rd place, Hack4UCAR* |
+| 📱 | [**Social media analyzer**](https://github.com/CHAABEN-Chahin/social-media-content-analyzer) | Fully local: scrape a post, OCR + transcribe it, let a small LLM make sense of it |
+| 🧸 | [**JINEN**](https://github.com/CHAABEN-Chahin/jinen-nursery-platform) | Nursery management with AI child-development tracking and a chatbot |
+
+---
+
+### 🧰 Tools I reach for
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,ts,js,cpp,flutter,docker,linux,git,mongodb,sqlite&perline=13" alt="Tech stack"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/llama.cpp-333333?style=flat-square"/>
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/nnU--Net-6D28D9?style=flat-square"/>
+</p>
+
+---
+
+<div align="center">
+
+### 🤝 Let's work together
+
+Got a hard AI problem, an internship, a hackathon team that needs one more person, or just want to talk about local LLMs?
+**My inbox is open.** I reply in 🇫🇷 French, 🇬🇧 English or 🇹🇳 Arabic.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chehin_Chaaben-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chehin-chaaben-b79b8b138/)
+[![Email](https://img.shields.io/badge/chahin.chaaben@supcom.tn-8B5CF6?style=flat-square&logo=gmail&logoColor=white)](mailto:chahin.chaaben@supcom.tn)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:0f172a&height=100&section=footer" width="100%"/>
+
+</div>
