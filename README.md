@@ -34,8 +34,6 @@ I'm an ICT engineering student at **SUP'COM** (Tunis) who likes building AI syst
 - 📊 **Monitoring & quality checks**: observability, automatic error flagging, tests
 - 🧪 **Benchmarking**: comparing methods rigorously to pick what really works
 - 🧩 **Full-stack apps**: FastAPI and Spring Boot backends, Angular and Flutter front ends
-- 📡 **IoT**: ESP32 sensors talking to a mobile app over Bluetooth
-
 </td>
 <td width="50%" valign="top">
 
@@ -47,6 +45,9 @@ I'm an ICT engineering student at **SUP'COM** (Tunis) who likes building AI syst
 - ✅ **Reliable data**: making data trustworthy first, then getting much more value out of it
 - 🏗️ **Modeling & architecture**: designing solutions and system architectures, then optimising them
 - 🌱 **Learning by doing**: discovering new things by building them, not just reading about them
+- 🤝 **Teamwork**: building together, sharing ideas and learning from others
+- 🌍 **New connections**: meeting people with different backgrounds and points of view
+- 🚪 **New opportunities**: open to projects and challenges that make me grow
 - 🏆 **Hackathons**: tight deadline, one idea, ship it
 
 </td>
