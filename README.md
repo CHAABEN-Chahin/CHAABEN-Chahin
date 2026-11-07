@@ -38,6 +38,8 @@ I'm an ICT engineering student at **SUP'COM** (Tunis) who likes building AI syst
 - 💼 **Understanding the business**: listening to what a team actually needs, then building what serves it
 - ⚙️ **Automation & useful tools**: removing repetitive work so people can focus on what matters
 - ✅ **Reliable data**: making data trustworthy first, then getting much more value out of it
+- 🏗️ **Modeling & architecture**: designing solutions and system architectures, then optimising them
+- 🌱 **Learning by doing**: discovering new things by building them, not just reading about them
 - 🏆 **Hackathons**: tight deadline, one idea, ship it
 
 </td>
