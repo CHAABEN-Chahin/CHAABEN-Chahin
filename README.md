@@ -43,7 +43,7 @@ Partner onboarding tracking and support platform.
 | [**KANZ**](https://github.com/OussemaHarrabi/KANZ-Petitfour) | Tunisian stock market (BVMT) forecasting: XGBoost model at about 70% directional accuracy | Python, XGBoost, LSTM, OCR |
 | [**BMO**](https://github.com/OussemaHarrabi/BMO) | Local multimodal memory assistant: screen activity → searchable memory and knowledge graph | Python, Qdrant, Neo4j |
 | [**JINEN**](https://github.com/CHAABEN-Chahin/jinen-nursery-platform) | Nursery management platform with AI child-development tracking, chatbot and vector search | Spring Boot, Angular, MongoDB |
-| [**Social media analyzer**](https://github.com/CHAABEN-Chahin/scrolling-captereur) | Fully local pipeline: scraping, OCR, speech-to-text and a small LLM to analyse social posts | Python, Playwright, Whisper, Ollama |
+| [**Social media analyzer**](https://github.com/CHAABEN-Chahin/social-media-content-analyzer) | Fully local pipeline: scraping, OCR, speech-to-text and a small LLM to analyse social posts | Python, Playwright, Whisper, Ollama |
 
 ## 🛠️ Skills
 
