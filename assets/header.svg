@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Chehin Chaaben, ICT engineering student at SUP'COM, building AI that solves real needs">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070A14"/>
+      <stop offset="0.55" stop-color="#140F2E"/>
+      <stop offset="1" stop-color="#3B1A78"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.45" r="0.5">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#ffffff" fill-opacity="0.07"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="340" rx="18"/></clipPath>
+    <style>
+      .mono { font-family: "JetBrains Mono", "Fira Code", Consolas, "Courier New", monospace; }
+      .sans { font-family: "Segoe UI", Inter, "Helvetica Neue", Arial, sans-serif; }
+      .edge { fill: none; stroke: #A78BFA; stroke-opacity: .28; stroke-width: 1.4; }
+      .flow { fill: none; stroke: #C4B5FD; stroke-width: 2; stroke-dasharray: 6 220; animation: flow 4s linear infinite; }
+      .node { fill: #0B0F1F; stroke: #A78BFA; stroke-width: 2; }
+      .pulse { fill: #8B5CF6; animation: pulse 3s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .line { opacity: 0; animation: cycle 20s infinite; }
+      .l1 { animation-delay: 0s; } .l2 { animation-delay: 4s; } .l3 { animation-delay: 8s; }
+      .l4 { animation-delay: 12s; } .l5 { animation-delay: 16s; }
+      .caret { animation: blink 1s steps(1) infinite; }
+      @keyframes cycle { 0% { opacity: 0; transform: translateY(6px); } 3% { opacity: 1; transform: translateY(0); } 18% { opacity: 1; transform: translateY(0); } 21% { opacity: 0; transform: translateY(-6px); } 100% { opacity: 0; } }
+      @keyframes pulse { 0%, 100% { opacity: .35; transform: scale(1); } 50% { opacity: .9; transform: scale(1.6); } }
+      @keyframes flow { from { stroke-dashoffset: 226; } to { stroke-dashoffset: 0; } }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#dots)"/>
+    <rect width="1200" height="340" fill="url(#glow)"/>
+
+    <!-- neural graph -->
+    <g transform="translate(790 60)">
+      <path class="edge" d="M20 40 L140 20 M20 40 L140 110 M20 160 L140 110 M20 160 L140 200 M20 100 L140 20 M20 100 L140 200 M140 20 L270 70 M140 110 L270 70 M140 110 L270 160 M140 200 L270 160 M270 70 L360 115 M270 160 L360 115"/>
+      <path class="flow" d="M20 40 L140 110 L270 160 L360 115"/>
+      <path class="flow" style="animation-delay:-1.3s" d="M20 160 L140 200 L270 160 L360 115"/>
+      <path class="flow" style="animation-delay:-2.6s" d="M20 100 L140 20 L270 70 L360 115"/>
+      <g>
+        <circle class="pulse" cx="20" cy="40" r="5"/><circle class="node" cx="20" cy="40" r="7"/>
+        <circle class="pulse" style="animation-delay:.6s" cx="20" cy="100" r="5"/><circle class="node" cx="20" cy="100" r="7"/>
+        <circle class="pulse" style="animation-delay:1.2s" cx="20" cy="160" r="5"/><circle class="node" cx="20" cy="160" r="7"/>
+        <circle class="pulse" style="animation-delay:.3s" cx="140" cy="20" r="5"/><circle class="node" cx="140" cy="20" r="8"/>
+        <circle class="pulse" style="animation-delay:.9s" cx="140" cy="110" r="5"/><circle class="node" cx="140" cy="110" r="8"/>
+        <circle class="pulse" style="animation-delay:1.5s" cx="140" cy="200" r="5"/><circle class="node" cx="140" cy="200" r="8"/>
+        <circle class="pulse" style="animation-delay:.45s" cx="270" cy="70" r="5"/><circle class="node" cx="270" cy="70" r="8"/>
+        <circle class="pulse" style="animation-delay:1.05s" cx="270" cy="160" r="5"/><circle class="node" cx="270" cy="160" r="8"/>
+        <circle class="pulse" style="animation-delay:.75s" cx="360" cy="115" r="7"/><circle class="node" cx="360" cy="115" r="11" stroke="#C4B5FD"/>
+      </g>
+    </g>
+
+    <!-- text -->
+    <text x="64" y="92" class="mono" font-size="16" fill="#A78BFA" letter-spacing="1">// chehin.chaaben.com</text>
+    <text x="60" y="166" class="sans" font-size="66" font-weight="700" fill="#F8FAFC" letter-spacing="-1">Chehin Chaaben</text>
+    <text x="64" y="206" class="sans" font-size="21" fill="#CBD5E1">ICT engineering student at SUP'COM · Tunis</text>
+
+    <rect x="64" y="236" width="560" height="44" rx="10" fill="#0B0F1F" fill-opacity=".7" stroke="#8B5CF6" stroke-opacity=".45"/>
+    <text x="82" y="264" class="mono" font-size="17" fill="#8B5CF6">$</text>
+    <g class="mono" font-size="17" fill="#E9D5FF">
+      <text class="line l1" x="102" y="264">building AI that solves real needs</text>
+      <text class="line l2" x="102" y="264">making data reliable, then useful</text>
+      <text class="line l3" x="102" y="264">automating the work nobody enjoys</text>
+      <text class="line l4" x="102" y="264">designing architectures that hold up</text>
+      <text class="line l5" x="102" y="264">learning by building, every day</text>
+    </g>
+    <circle class="pulse" cx="600" cy="258" r="4"/>
+  </g>
+</svg>
