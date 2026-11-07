@@ -34,10 +34,10 @@ I'm an ICT engineering student at **SUP'COM** (Tunis) who likes building AI syst
 
 ### ✨ What interests me
 
-- 🏠 **Local-first AI**: powerful models running privately on your own hardware
-- 🧾 **Trustworthy AI**: systems that flag their own mistakes instead of hiding them
-- 🖼️ **Multimodal models**: text, images and documents in one space
-- 🏥 **AI for health**: from lung CT scans to wearables
+- 🎯 **Solving real needs**: using technology where it makes a real difference, not just because it's new
+- 💼 **Understanding the business**: listening to what a team actually needs, then building what serves it
+- ⚙️ **Automation & useful tools**: removing repetitive work so people can focus on what matters
+- ✅ **Reliable data**: making data trustworthy first, then getting much more value out of it
 - 🏆 **Hackathons**: tight deadline, one idea, ship it
 
 </td>
@@ -82,6 +82,19 @@ I'm an ICT engineering student at **SUP'COM** (Tunis) who likes building AI syst
   <img src="https://img.shields.io/badge/llama.cpp-333333?style=flat-square"/>
   <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square"/>
   <img src="https://img.shields.io/badge/nnU--Net-6D28D9?style=flat-square"/>
+</p>
+
+#### 🌐 Also familiar with
+
+My engineering background is broad, so I'm comfortable working beyond AI and fitting into different kinds of teams:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/☁️_Cloud_principles-232F3E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/📊_Big_Data-E25A1C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🔐_Security-B91C1C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🌍_Networks-0E7490?style=flat-square"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🔌_Embedded_systems-15803D?style=flat-square&logo=espressif&logoColor=white"/>
 </p>
 
 ---
