@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6d28d9&height=180&section=header&text=Chehin%20Chaaben&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=I%20turn%20messy%20real-world%20data%20into%20AI%20that%20actually%20works&descAlignY=56&descSize=16" width="100%"/>
 
 <a href="https://github.com/CHAABEN-Chahin">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=620&lines=LLM+agents+that+don't+hallucinate;RAG+over+documents+nobody+wants+to+read;Computer+vision+from+CT+scans+to+receipts;Local-first+AI%2C+running+on+your+own+machine" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=620&lines=Building+AI+that+solves+real+needs;Making+data+reliable%2C+then+useful;Automating+the+work+nobody+enjoys;Designing+architectures+that+hold+up;Learning+by+building%2C+every+day" alt="Typing SVG"/>
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chehin-chaaben-b79b8b138/)
