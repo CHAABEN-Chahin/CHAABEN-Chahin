@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><g stroke="#E2E8F0" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><style>g>:not([fill]):not([stroke]),g>[fill="none"]:not([stroke]){stroke:#94A3B8}</style><g stroke="#0D1117" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none">
 <path d="M8 11v26c0 3.3 7.2 6 16 6s16-2.7 16-6V11" fill="#6366F1"/>
 <path d="M8 20c0 3.3 7.2 6 16 6s16-2.7 16-6M8 29c0 3.3 7.2 6 16 6s16-2.7 16-6" fill="none"/>
 <ellipse cx="24" cy="11" rx="16" ry="6" fill="#A5B4FC"/>
