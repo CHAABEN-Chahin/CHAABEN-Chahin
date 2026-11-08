@@ -91,7 +91,7 @@ I'm an ICT engineering student at **SUP'COM** (Tunis) who likes building AI syst
 <tr>
 <td width="50%" valign="top">
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons-dark/bike.svg"><img src="assets/icons/bike.svg" width="24" align="top"/></picture>&nbsp; <a href="https://github.com/khaoula-mechria/bike"><b>BikeShare demand forecasting</b></a><br/>
-<sub>Forecasting daily bike rentals in Washington D.C., adapted to predict 2026 with live weather. XGBoost test R² 0.927.</sub><br/>
+<sub>Forecasting daily bike rentals in Washington D.C., adapted to predict 2026 with live weather. XGBoost test R² 0.927. <i>My part: the ML models and training.</i></sub><br/>
 <sub><code>XGBoost</code> <code>scikit-learn</code> <code>SHAP</code></sub>
 </td>
 <td width="50%" valign="top">
@@ -119,9 +119,14 @@ I'm an ICT engineering student at **SUP'COM** (Tunis) who likes building AI syst
 <sub><code>Spring Boot</code> <code>Angular</code> <code>MongoDB</code></sub>
 </td>
 <td width="50%" valign="top">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons-dark/compass.svg"><img src="assets/icons/compass.svg" width="24" align="top"/></picture>&nbsp; <a href="https://chehin.chaaben.com"><b>More on my portfolio</b></a><br/>
-<sub>Case studies, experience and everything that isn't on GitHub yet.</sub><br/>
-<sub><code>chehin.chaaben.com</code></sub>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons-dark/zap.svg"><img src="assets/icons/zap.svg" width="24" align="top"/></picture>&nbsp; <a href="https://github.com/khaoula-mechria/green-wallet/tree/batterie"><b>Green Wallet</b></a><br/>
+<sub>A neighbourhood energy market: homes trade solar surplus every 30 minutes in a double auction, settled on a hash-chained ledger. <i>My part: market logic, real energy datasets, ETL and real-data simulation.</i></sub><br/>
+<sub><code>TypeScript</code> <code>Python</code> <code>ETL</code> <code>Blockchain</code></sub>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons-dark/compass.svg"><img src="assets/icons/compass.svg" width="24" align="top"/></picture>&nbsp; <a href="https://chehin.chaaben.com"><b>More on my portfolio</b></a> · <sub>case studies, experience and everything that isn't on GitHub yet</sub>
 </td>
 </tr>
 </table>
