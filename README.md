@@ -161,7 +161,7 @@ I'm an ICT engineering student at **SUP'COM** (Tunis) who likes building AI syst
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons-dark/send.svg"><img src="assets/icons/send.svg" width="28" align="top"/></picture>&nbsp; Let's work together
 
-Got a hard AI problem, an internship, a hackathon team that needs one more person, or just want to talk about local LLMs?<br/>
+Got a hard AI problem, an internship, a hackathon team that needs one more person, or just want to talk about technology and the real needs it can solve?<br/>
 **My inbox is open.** I reply in French, English or Arabic.
 
 <a href="mailto:chahin.chaaben@supcom.tn"><img src="https://img.shields.io/badge/chahin.chaaben@supcom.tn-8B5CF6?style=flat-square&logo=maildotru&logoColor=white" alt="Email"/></a>
