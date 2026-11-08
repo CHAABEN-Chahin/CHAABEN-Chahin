@@ -142,6 +142,8 @@ I'm an ICT engineering student at **SUP'COM** (Tunis) who likes building AI syst
   <img src="https://img.shields.io/badge/llama.cpp-333333?style=flat-square"/>
   <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square"/>
   <img src="https://img.shields.io/badge/nnU--Net-6D28D9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square"/>
 </p>
 
 <p align="center"><sub><b>ALSO FAMILIAR WITH</b> · a broad engineering background, comfortable beyond AI and in different kinds of teams</sub></p>
